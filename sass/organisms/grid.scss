@@ -9,3 +9,9 @@
   grid-gap: 20px;
   margin-bottom: 4rem;
 }
+
+.animais-lista {
+  height: 370px;
+  overflow-y: scroll;
+  grid-column: 2;
+}
